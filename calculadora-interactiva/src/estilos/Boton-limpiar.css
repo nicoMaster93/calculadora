@@ -1,0 +1,17 @@
+.btn-clean{
+    height: 80px;
+    font-size: 1.3em;
+    display: flex;
+    flex: 1;
+    background-color: #ac0146;
+    color: white;
+    margin-top: 8px;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.btn-clean:hover{
+    cursor: pointer;
+    background-color: #ebb000;
+}
